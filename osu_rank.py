@@ -1,8 +1,8 @@
-import discord, time, requests, subprocess
+import discord, time, requests, subprocess, json
 from pypresence import Presence
 
 with open('config.json') as file:
-    config = file.read()
+    config = json.load(file)
 
 while True:
     subprocess.call("cls", shell=True)
