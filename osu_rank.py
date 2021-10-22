@@ -14,6 +14,6 @@ while True:
     pp_country_rank = str(f[0]['pp_country_rank'])
     RPC = Presence('900798384942743603')
     RPC.connect()
-    RPC.update(state=f"Global Rank: {pp_rank}\nCountry Rank: {pp_country_rank}", large_image='large', large_text=f'Global: {pp_rank}', small_image=f'{flag}', small_text=f'Country: {pp_country_rank}', start=time.time())
+    RPC.update(state=f"Global Rank: {pp_rank}\nCountry Rank: {pp_country_rank}", large_image='large', large_text=f'Global: {pp_rank}', small_image=f'{flag}', small_text=f'Country: {pp_country_rank}')
     print("Loaded")
     time.sleep(10)
