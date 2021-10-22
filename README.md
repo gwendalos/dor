@@ -3,7 +3,7 @@
 - Python 3 or higher
 - Text Editor such as `Sublim Text` or anything else.
 
-## Getting Started (Can be completed in 5 min)
+## Getting Started (Can be done in 5 min)
 
 First, you will need an osu! API key. Get one [here](https://osu.ppy.sh/p/api)
 
