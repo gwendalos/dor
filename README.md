@@ -28,7 +28,9 @@ python3 setup.py
 After these steps, you'll be good to go!
 
 Simply execute `osu_rank.py` by doing 
-```py osu_rank.py```
+```
+py osu_rank.py
+```
 
 ## Usage
 
