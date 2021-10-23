@@ -34,6 +34,6 @@ py osu_rank.py
 
 ## Usage
 
-Execute `osu_rank.py` and you will be ready for flexing in front of your friends 
+Execute `osu_rank.py` and you will be ready to flex in front of your friends 
 
 
